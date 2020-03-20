@@ -1,7 +1,7 @@
 # Учебный проект «Куплю. Продам» [![Build status][travis-image]][travis-url]
 
 * Студент: [Margarita Ivanova](https://up.htmlacademy.ru/nodejs/3/user/1419647).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Гостюхин](https://htmlacademy.ru/profile/id1405989).
 
 ---
 

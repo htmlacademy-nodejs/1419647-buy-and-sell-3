@@ -1,7 +1,7 @@
-# Учебный проект «Куплю. Продам» [![Build status][travis-image]][travis-url]
+# Личный проект «Типотека» [![Build status][travis-image]][travis-url]
 
 * Студент: [Margarita Ivanova](https://up.htmlacademy.ru/nodejs/3/user/1419647).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Гостюхин](https://htmlacademy.ru/profile/id1405989).
 
 ---
 
@@ -48,5 +48,10 @@ git clone SSH-адрес_вашего_форка
 
 Репозиторий создан для обучения на интенсивном онлайн‑курсе «[Node.js, уровень 1](https://htmlacademy.ru/intensive/nodejs)» от [HTML Academy](https://htmlacademy.ru).
 
+<<<<<<< HEAD
 [travis-image]: https://travis-ci.com/htmlacademy-nodejs/1419647-buy-and-sell-3.svg?branch=master
 [travis-url]: https://travis-ci.com/htmlacademy-nodejs/1419647-buy-and-sell-3
+=======
+[travis-image]: https://travis-ci.com/htmlacademy-nodejs/1419647-typoteka-3.svg?branch=master
+[travis-url]: https://travis-ci.com/htmlacademy-nodejs/1419647-typoteka-3
+>>>>>>> upstream/master
